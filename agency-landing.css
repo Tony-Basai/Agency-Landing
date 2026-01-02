@@ -34,6 +34,7 @@
 .product__logo-img {
     width: 49px;
     height: 49px;
+    cursor: pointer;
 }
 
 .product__logo-text {
